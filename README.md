@@ -48,4 +48,4 @@ Desenvolvido em colaboração por:
 | Nome | GitHub |
 | :--- | :--- |
 | **Leverson Batista** | [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/levbatista) |
-| **Pedro Oliveira** | [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](LINK_DO_GITHUB_DO_PEDRO) |
+| **Pedro Oliveira** | [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/PHonz11) |
